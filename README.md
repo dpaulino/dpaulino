@@ -1,16 +1,14 @@
-### Hi there 👋
+## Daniel Paulino
 
-<!--
-**dpaulino/dpaulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Daniel 🙋🏽‍♂️. By day I'm a software engineer, and by night I build apps for Windows 10 🙌🏽. Here's a gist about me:
 
-Here are some ideas to get you started:
+* 📚 I taught myself .NET, C#, and XAML
+* 🧬 [I built a tool that closes gaps in the human genome](https://github.com/bcgsc/abyss/tree/master/Sealer)
+* 🐦 [I built the best REST client on the Microsoft Store](https://github.com/jenius-apps/nightingale-rest-api-client)
+* 💊 [I built one of the top medication tracking apps for Windows 10](https://www.microsoft.com/en-us/p/pillbox/9nblggh4x7vb)
+* 😅 I was once banned on Twitter for 4 hours because I exceeded the maximum tweeting rate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Talk to me
+Find me on twitter: https://twitter.com/kid_jenius
+
+Connect with me: https://www.linkedin.com/in/d-paulino
