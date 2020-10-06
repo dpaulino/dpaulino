@@ -1,6 +1,6 @@
 ## Daniel Paulino
 
-Hi! I'm Daniel 🙋🏽‍♂️. By day I'm a software engineer, and by night I build apps for Windows 10 🙌🏽. Here's a gist about me:
+Hi! I'm Daniel 🙋🏽‍♂️. I build modern Windows apps 🙌🏽. Here's a gist about me:
 
 * 📚 I taught myself .NET, C#, and XAML
 * 🧬 [I built a tool that closes gaps in the human genome](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0663-4)
