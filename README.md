@@ -1,4 +1,4 @@
-## Daniel Paulino
+## Daniel
 
 Hi! I'm Daniel 🙋🏽‍♂️. I build modern Windows apps 🙌🏽. Here are some things I built:
 
