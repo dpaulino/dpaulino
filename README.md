@@ -8,6 +8,5 @@ Hi! I'm Daniel 🙋🏽‍♂️. I build modern Windows apps 🥳. Here are som
 * 🎵 [Ambie: The best white noise app on Windows](https://ambieapp.com)
 
 ## Talk to me
-* Threads: https://www.threads.net/@kid.jenius 
 * BlueSky: https://bsky.app/profile/kidjenius.bsky.social
 * LinkedIn: www.linkedin.com/in/d-paulino
